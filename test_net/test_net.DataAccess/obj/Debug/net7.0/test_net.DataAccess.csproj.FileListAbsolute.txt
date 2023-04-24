@@ -1,0 +1,15 @@
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\bin\Debug\net7.0\test_net.DataAccess.deps.json
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\bin\Debug\net7.0\test_net.DataAccess.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\bin\Debug\net7.0\test_net.DataAccess.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\bin\Debug\net7.0\test_net.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\bin\Debug\net7.0\test_net.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\obj\Debug\net7.0\test_net.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\obj\Debug\net7.0\test_net.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\obj\Debug\net7.0\test_net.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\obj\Debug\net7.0\test_net.DataAccess.AssemblyInfo.cs
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\obj\Debug\net7.0\test_net.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\obj\Debug\net7.0\test_net.DataAccess.csproj.CopyComplete
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\obj\Debug\net7.0\test_net.DataAccess.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\obj\Debug\net7.0\refint\test_net.DataAccess.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\obj\Debug\net7.0\test_net.DataAccess.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DataAccess\obj\Debug\net7.0\ref\test_net.DataAccess.dll

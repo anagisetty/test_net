@@ -1,0 +1,12 @@
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DTO\bin\Debug\net7.0\test_net.DTO.deps.json
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DTO\bin\Debug\net7.0\test_net.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DTO\bin\Debug\net7.0\test_net.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DTO\obj\Debug\net7.0\test_net.DTO.csproj.AssemblyReference.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DTO\obj\Debug\net7.0\test_net.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DTO\obj\Debug\net7.0\test_net.DTO.AssemblyInfoInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DTO\obj\Debug\net7.0\test_net.DTO.AssemblyInfo.cs
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DTO\obj\Debug\net7.0\test_net.DTO.csproj.CoreCompileInputs.cache
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DTO\obj\Debug\net7.0\test_net.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DTO\obj\Debug\net7.0\refint\test_net.DTO.dll
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DTO\obj\Debug\net7.0\test_net.DTO.pdb
+D:\Projects\Microsoft\API\dotnet_service\Application.API\SacralAI.Code.Scheduler\bin\Debug\Apps\1\103\202304245948\test_net\test_net.DTO\obj\Debug\net7.0\ref\test_net.DTO.dll
